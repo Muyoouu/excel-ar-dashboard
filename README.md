@@ -17,6 +17,13 @@
 
   <p align="center">
     An Excel-based dashboard to help businesses monitor their Accounts Receivables 
+  <p align="center">  
+    You can watch the project demo video on YouTube by clicking the image below:
+    <br />
+    <br />
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=KTbFauEHCGE" target="_blank">
+    <img src="http://img.youtube.com/vi/KTbFauEHCGE/0.jpg" alt="Watch the project demo video on Youtube!" width="480" height="360" border="10" />
+  </a>
 </div>
 
 ## About The Project
